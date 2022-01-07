@@ -4,7 +4,7 @@
 
 This is an ML based prediction project implemented in Python language that predicts the marks of the students, 
 based on a number of factors. Given the number of hours a student studes on an average, the model generates the
-percentage of marks a student will get in the exams. The project is implemented using
+percentage of marks a student will get in the exams. The project is implemented using Linear Regression.
 
 ### The libraries and editor used to develop this project are:
 
